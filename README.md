@@ -8,7 +8,7 @@ WebDevPlayground is a web development platform that allows users to code HTML, C
 - Lightweight and responsive design 
 
 ## Usage
-1. Visit https://web-code-complier-37.netlify.app/
+1. Visit website  https://web-code-complier-37.netlify.app/
 2. Start coding your HTML, CSS, and JavaScript in their respective code editors.
 3. Observe the live preview of your web project.
 
